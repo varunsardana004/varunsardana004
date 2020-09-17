@@ -7,7 +7,8 @@
 </h3>
 <br>
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunsardana004&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931 ;&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=varunsardana004&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931&count_private=true"/>
+
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsardana004&theme=dark&hide_langs_below=1"/>
 
 <br>
