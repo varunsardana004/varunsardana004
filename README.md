@@ -7,6 +7,7 @@
 </h3>
 <br>
 <hr>
+<h2>📈 Github Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=varunsardana004&show_icons=true&theme=radical"/>
 
 
@@ -23,3 +24,13 @@
 <img src=https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png alt=java width="40" height="40"/> 
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/>
 </p>
+
+<p align="center">
+You can find me on [![Twitter][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+
+[1]:https://twitter.com/VarunSardana5
