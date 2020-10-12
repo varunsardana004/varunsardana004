@@ -25,7 +25,6 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/>
 </p>
 
-<p align="center">
 You can find me on [![Twitter][1.2]][1]
 
 <!-- Icons -->
