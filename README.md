@@ -1,3 +1,5 @@
+
+[![Header](https://raw.githubusercontent.com/varunsardana004/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 <h1>
   Hi there 👋  
   <br> I'm Varun Sardana
