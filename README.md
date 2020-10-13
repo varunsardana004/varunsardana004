@@ -24,4 +24,4 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/>
  <br>
 
- <img src=http://hits.dwyl.com/varunsardana004/{project}.svg alt=vs-code width="100" height="30"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=varunsardana004.visitor-badge" alt=vs-code width="100" height="30"/>
