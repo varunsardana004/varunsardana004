@@ -3,10 +3,9 @@
   <br> I'm Varun Sardana
 </h1>
 <br>
-<h3>  Still Learning New Things !!
+<h3> I like experimenting with new technologies, building small projects .
 </h3>
 <br>
-<hr>
 <h2>📈 Github Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=varunsardana004&show_icons=true&theme=radical"/>
 
@@ -23,4 +22,6 @@
 <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png alt=java width="40" height="40"/> 
 <img src=https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png alt=java width="40" height="40"/> 
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/>
+ <br>
 
+ <img src=http://hits.dwyl.com/varunsardana004/{project}.svg alt=vs-code width="100" height="30"/>
