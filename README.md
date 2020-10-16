@@ -13,6 +13,7 @@
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsardana004&theme=dark&hide_langs_below=1"/>
 
 <br>
+<h2>🔧 Tools & Technology </h2>
 <p align="center"> 
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/>
 <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png alt=html5 width="40" height="40"/> 
