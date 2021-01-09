@@ -24,5 +24,10 @@
 <img src=https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png alt=java width="40" height="40"/> 
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/>
  <br>
-
- <img src="https://visitor-badge.laobi.icu/badge?page_id=varunsardana004.visitor-badge" alt=vs-code width="100" height="30"/>
+<p  align="center" >
+<a href="https://sourcerer.io/varunsardana004"><img src="https://img.shields.io/badge/JavaScript-112%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/varunsardana004"><img src="https://img.shields.io/badge/HTML-107%20commits-pink.svg" alt=""></a>
+<a href="https://sourcerer.io/varunsardana004"><img src="https://img.shields.io/badge/Java-92%20commits-tomato.svg" alt=""></a>
+<a href="https://sourcerer.io/varunsardana004"><img src="https://img.shields.io/badge/CSS-89%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/varunsardana004"><img src="https://img.shields.io/badge/PHP-85%20commits-pink.svg" alt=""></a>
+<a href="https://sourcerer.io/varunsardana004"><img src="https://img.shields.io/badge/SQL-52%20commits-tomato.svg" alt=""></a></p>
