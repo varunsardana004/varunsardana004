@@ -6,10 +6,7 @@
 <h3> I like experimenting with new technologies, building small projects .
 </h3>
 <br>
-
-
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsardana004&theme=dark&hide_langs_below=1"/>
-
 <br>
 <h2>🔧 Tools & Technology </h2>
 <p align="center"> 
