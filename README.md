@@ -6,8 +6,6 @@
 <h3> I like experimenting with new technologies, building small projects .
 </h3>
 <br>
-<h2>📈 Github Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=varunsardana004&show_icons=true&theme=radical"/>
 
 
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsardana004&theme=dark&hide_langs_below=1"/>
